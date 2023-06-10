@@ -1,0 +1,82 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    min-width: 35px;
+    max-width: 35px;
+    min-height: 35px;
+    max-height: 35px;
+    align-items: center;
+    justify-content: center;
+
+    i {
+        font-size: 2rem;
+    }
+    
+
+    &.blue {
+        background-color: #090cd6;
+        color: #ffffff;
+    }
+    &.pink {
+        background-color: #eb0cf0;
+    } 
+    &.purple {
+        background-color: #9806c4;
+        color: #ffffff;
+    } 
+    &.orange {
+        background-color: #e87f07;
+    } 
+    &.white {
+        background-color: #ffffff;
+    } 
+    &.red {
+        background-color: #c70616;
+        color: #ffffff;
+    } 
+    &.green {
+        background-color: #04c424;
+    } 
+    &.grey {
+        background-color: #8f8f8f;
+    } 
+    &.yellow {
+        background-color: #dade02;
+    } 
+
+    &.blue-light {
+        background-color: #8284f7;
+    }
+    &.pink-light {
+        background-color: #ef83f1;
+    } 
+    &.purple-light {
+        background-color: #b072c3;
+    } 
+    &.orange-light {
+        background-color: #f5ad5b;
+    } 
+    &.white-light {
+        background-color: #ffffff;
+    } 
+    &.red-light {
+        background-color: #f36f7a;
+    } 
+    &.green-light {
+        background-color: #86e596;
+    } 
+    &.grey-light {
+        background-color: #b5b4b4;
+    } 
+    &.yellow-light {
+        background-color: #eef093;
+    }
+
+    &.highlight {
+        border: 1px solid #ffffff;
+    }
+
+    &.nohighlight {
+        border: 1px solid #000000;
+    }
+}

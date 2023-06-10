@@ -1,0 +1,648 @@
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 0, 'blue', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 1, 'pink', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 2, 'grey', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 3, 'white', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 4, 'purple', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 5, 'green', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 6, 'red', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 7, 'orange', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 8, 'yellow', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 9, 'pink', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 10, 'grey', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 11, 'yellow', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 12, 'white', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 13, 'green', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 14, 'purple', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 15, 'blue', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 16, 'red', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('A', 17, 'orange', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 0, 'pink', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 1, 'green', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 2, 'yellow', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 3, 'orange', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 4, 'red', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 5, 'grey', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 6, 'blue', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 7, 'purple', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 8, 'white', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 9, 'green', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 10, 'yellow', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 11, 'white', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 12, 'orange', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 13, 'grey', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 14, 'red', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 15, 'pink', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 16, 'blue', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('B', 17, 'purple', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 0, 'green', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 1, 'grey', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 2, 'white', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 3, 'purple', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 4, 'blue', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 5, 'yellow', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 6, 'pink', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 7, 'red', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 8, 'orange', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 9, 'blue', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 10, 'green', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 11, 'grey', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 12, 'yellow', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 13, 'pink', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 14, 'orange', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 15, 'red', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 16, 'purple', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('C', 17, 'white', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 0, 'white', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 1, 'orange', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 2, 'red', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 3, 'pink', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 4, 'grey', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 5, 'purple', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 6, 'yellow', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 7, 'green', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 8, 'blue', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 9, 'purple', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 10, 'blue', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 11, 'pink', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 12, 'green', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 13, 'red', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 14, 'yellow', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 15, 'orange', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 16, 'white', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('D', 17, 'grey', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 0, 'yellow', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 1, 'white', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 2, 'purple', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 3, 'blue', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 4, 'green', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 5, 'orange', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 6, 'grey', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 7, 'pink', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 8, 'red', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 9, 'orange', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 10, 'red', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 11, 'blue', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 12, 'pink', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 13, 'purple', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 14, 'grey', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 15, 'white', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 16, 'yellow', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('E', 17, 'green', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 0, 'purple', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 1, 'red', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 2, 'pink', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 3, 'grey', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 4, 'white', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 5, 'blue', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 6, 'orange', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 7, 'yellow', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 8, 'green', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 9, 'white', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 10, 'purple', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 11, 'red', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 12, 'blue', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 13, 'orange', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 14, 'green', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 15, 'yellow', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 16, 'grey', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('F', 17, 'pink', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 0, 'red', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 1, 'blue', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 2, 'green', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 3, 'yellow', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 4, 'orange', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 5, 'pink', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 6, 'purple', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 7, 'white', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 8, 'grey', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 9, 'red', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 10, 'pink', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 11, 'green', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 12, 'grey', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 13, 'blue', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 14, 'white', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 15, 'purple', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 16, 'orange', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('G', 17, 'yellow', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 0, 'orange', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 1, 'purple', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 2, 'blue', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 3, 'green', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 4, 'yellow', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 5, 'red', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 6, 'white', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 7, 'grey', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 8, 'pink', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 9, 'yellow', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 10, 'orange', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 11, 'purple', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 12, 'red', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 13, 'white', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 14, 'pink', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 15, 'grey', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 16, 'green', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('H', 17, 'blue', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 0, 'grey', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 1, 'yellow', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 2, 'orange', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 3, 'red', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 4, 'pink', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 5, 'white', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 6, 'green', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 7, 'blue', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 8, 'purple', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 9, 'grey', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 10, 'white', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 11, 'orange', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 12, 'purple', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 13, 'yellow', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 14, 'blue', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 15, 'green', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 16, 'pink', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('I', 17, 'red', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 0, 'green', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 1, 'purple', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 2, 'yellow', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 3, 'pink', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 4, 'grey', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 5, 'orange', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 6, 'white', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 7, 'red', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 8, 'blue', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 9, 'white', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 10, 'blue', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 11, 'red', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 12, 'pink', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 13, 'purple', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 14, 'grey', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 15, 'orange', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 16, 'yellow', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('J', 17, 'green', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 0, 'grey', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 1, 'red', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 2, 'white', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 3, 'green', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 4, 'yellow', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 5, 'purple', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 6, 'orange', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 7, 'blue', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 8, 'pink', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 9, 'purple', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 10, 'green', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 11, 'pink', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 12, 'grey', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 13, 'blue', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 14, 'white', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 15, 'red', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 16, 'orange', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('K', 17, 'yellow', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 0, 'white', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 1, 'pink', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 2, 'purple', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 3, 'yellow', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 4, 'orange', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 5, 'blue', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 6, 'red', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 7, 'green', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 8, 'grey', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 9, 'red', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 10, 'grey', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 11, 'green', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 12, 'yellow', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 13, 'pink', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 14, 'orange', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 15, 'blue', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 16, 'purple', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('L', 17, 'white', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 0, 'red', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 1, 'yellow', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 2, 'pink', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 3, 'purple', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 4, 'blue', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 5, 'grey', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 6, 'green', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 7, 'white', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 8, 'orange', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 9, 'grey', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 10, 'purple', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 11, 'orange', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 12, 'red', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 13, 'white', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 14, 'pink', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 15, 'yellow', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 16, 'green', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('M', 17, 'blue', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 0, 'purple', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 1, 'grey', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 2, 'blue', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 3, 'orange', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 4, 'red', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 5, 'green', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 6, 'pink', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 7, 'yellow', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 8, 'white', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 9, 'orange', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 10, 'pink', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 11, 'blue', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 12, 'green', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 13, 'red', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 14, 'yellow', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 15, 'purple', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 16, 'white', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('N', 17, 'grey', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 0, 'yellow', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 1, 'blue', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 2, 'orange', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 3, 'grey', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 4, 'white', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 5, 'red', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 6, 'purple', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 7, 'pink', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 8, 'green', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 9, 'yellow', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 10, 'red', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 11, 'purple', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 12, 'blue', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 13, 'orange', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 14, 'green', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 15, 'white', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 16, 'grey', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('O', 17, 'pink', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 0, 'orange', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 1, 'green', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 2, 'red', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 3, 'white', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 4, 'purple', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 5, 'pink', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 6, 'blue', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 7, 'grey', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 8, 'yellow', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 9, 'blue', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 10, 'yellow', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 11, 'grey', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 12, 'white', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 13, 'green', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 14, 'purple', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 15, 'pink', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 16, 'red', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('P', 17, 'orange', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 0, 'blue', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 1, 'white', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 2, 'green', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 3, 'red', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 4, 'pink', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 5, 'yellow', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 6, 'grey', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 7, 'orange', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 8, 'purple', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 9, 'pink', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 10, 'white', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 11, 'yellow', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 12, 'orange', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 13, 'grey', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 14, 'red', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 15, 'green', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 16, 'blue', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('Q', 17, 'purple', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 0, 'pink', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 1, 'orange', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 2, 'grey', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 3, 'blue', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 4, 'green', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 5, 'white', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 6, 'yellow', 'sun');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 7, 'purple', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 8, 'red', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 9, 'green', 'bolt');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 10, 'orange', 'triangle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 11, 'white', 'heart');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 12, 'purple', 'eye');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 13, 'yellow', 'circle');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 14, 'blue', 'star');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 15, 'grey', 'cog');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 16, 'pink', 'moon');
+INSERT INTO cards (`row`, col, color, shape)
+ VALUES ('R', 17, 'red', 'sun');

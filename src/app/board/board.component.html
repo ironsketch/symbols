@@ -1,0 +1,19 @@
+<div class="board">
+    <div class="top">
+        <div class="label-square" >
+
+        </div>
+        <div class="label-square" *ngFor="let letter of rows">
+            {{ letter }}
+        </div>
+    </div>
+    <div class="row" *ngFor="let row of board; let i = index">
+        <div class="col" *ngFor="let square of row; let j = index">
+            <div class="label-square" *ngIf="j === 0">
+                {{ i + 1 }}
+            </div>
+            <card [square]="square"></card>
+        </div>
+    </div>
+  </div>
+  

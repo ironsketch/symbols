@@ -1,0 +1,32 @@
+.board {
+    display: flex;
+    flex-direction: column;
+
+    .top {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .label-square {
+        display: flex;
+        flex-direction: row;
+        min-width: 35px;
+        max-width: 35px;
+        min-height: 35px;
+        max-height: 35px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .col {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+}

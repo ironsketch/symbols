@@ -1,0 +1,21 @@
+<h3>{{ player!.playerName }}</h3>
+<p-accordion [activeIndex]="0">
+    <p-accordionTab header="Games">
+        <div class="game" *ngFor="let game of playerGames">
+            <div *ngIf="game.finished">
+                <div [ngClass]="[game.won ? 'won' : 'lost']">
+                    You: {{ game.player1Id }}
+                    <card [square]="game.player1CardId"></card>
+                </div>
+                <div [ngClass]="[game.won ? 'won' : 'lost']">
+                    Opponent: {{ game.player2Id }}
+                    <card [square]="game.player2CardId"></card>
+                </div>
+                <p-divider></p-divider>
+            </div>
+        </div>
+    </p-accordionTab>
+    <p-accordionTab header="Opponents">
+        
+    </p-accordionTab>
+</p-accordion>

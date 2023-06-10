@@ -1,0 +1,18 @@
+<p-menubar [model]="topnav">
+    <ng-template pTemplate="start">
+        <span class="meow">₍˄·͈༝·͈˄₎◞ MJBGAME.com </span>
+    </ng-template>
+    <ng-template pTemplate="end">
+        <div *ngIf="loggedIn()">
+            <p-dropdown [options]="games" [(ngModel)]="selectedGame" optionLabel="name"></p-dropdown>
+            {{ gameServices!.player!.playerName }}
+            <a (click)="logout()">Log out</a>
+        </div>
+        <div class="login" *ngIf="!loggedIn()">
+            <p-button label="Login" (click)="login()"></p-button>
+            <input type="text" pInputText [(ngModel)]="username" class="p-inputtext-sm" placeholder="Username" />
+            <p-password [(ngModel)]="password" class="p-inputtext-sm" [feedback]="false"></p-password>
+            <a [routerLink]="['/signup']" >Sign up</a>
+        </div>
+    </ng-template>
+</p-menubar>

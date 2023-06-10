@@ -1,0 +1,3 @@
+<div class="card" [ngClass]="[square!.color, gameServices!.location && (gameServices!.location![0] === square!.location![0] || gameServices!.location![1] === square!.location![1]) ? 'highlight ' + square!.color + '-light' : 'nohighlight']" (mouseenter)="highlight(square!.location!)">
+    <i class="pi" [ngClass]="square!.shape" ></i>
+</div>

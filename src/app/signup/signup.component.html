@@ -1,0 +1,11 @@
+<div class="sign-up">
+    <h3>Sign Up</h3>
+    <p-messages [(value)]="msgs" [closable]="false" severity="warning"></p-messages>
+    
+    <input type="text" pInputText [(ngModel)]="username" class="p-inputtext-sm" placeholder="Username" />
+    <input type="text" pInputText [(ngModel)]="password" class="p-inputtext-sm" placeholder="Password" />
+    <p-button label="Sign Up" (click)="submit()"></p-button>
+</div>
+
+
+
